@@ -3,3 +3,5 @@ hello this is the first line
 git gui firt steps
 
 switched to branch feature
+
+check what is the difference in brnch mastear and feature
